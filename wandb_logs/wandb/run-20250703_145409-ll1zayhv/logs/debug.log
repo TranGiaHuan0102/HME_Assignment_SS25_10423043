@@ -1,0 +1,18 @@
+2025-07-03 14:54:09,969 INFO    MainThread:16008 [wandb_setup.py:_flush():81] Current SDK version is 0.20.1
+2025-07-03 14:54:09,969 INFO    MainThread:16008 [wandb_setup.py:_flush():81] Configure stats pid to 16008
+2025-07-03 14:54:09,970 INFO    MainThread:16008 [wandb_setup.py:_flush():81] Loading settings from C:\Users\Acer\.config\wandb\settings
+2025-07-03 14:54:09,970 INFO    MainThread:16008 [wandb_setup.py:_flush():81] Loading settings from c:\Users\Acer\Documents\HME_Assignment_SS25_10423043\wandb\settings
+2025-07-03 14:54:09,970 INFO    MainThread:16008 [wandb_setup.py:_flush():81] Loading settings from environment variables
+2025-07-03 14:54:09,970 INFO    MainThread:16008 [wandb_init.py:setup_run_log_directory():703] Logging user logs to wandb_logs\wandb\run-20250703_145409-ll1zayhv\logs\debug.log
+2025-07-03 14:54:09,972 INFO    MainThread:16008 [wandb_init.py:setup_run_log_directory():704] Logging internal logs to wandb_logs\wandb\run-20250703_145409-ll1zayhv\logs\debug-internal.log
+2025-07-03 14:54:09,972 INFO    MainThread:16008 [wandb_init.py:monkeypatch_ipython():622] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000012C49066CC0>
+2025-07-03 14:54:09,972 INFO    MainThread:16008 [wandb_init.py:init():831] calling init triggers
+2025-07-03 14:54:09,972 INFO    MainThread:16008 [wandb_init.py:init():836] wandb.init called with sweep_config: {}
+config: {'student_id': '10423043', 'model': 'LSTM_TemporalClassification', 'lr': 0.001, 'batch_size': 32, 'hidden_size': 256, 'num_layers': 2, '_wandb': {}}
+2025-07-03 14:54:09,972 INFO    MainThread:16008 [wandb_init.py:init():872] starting backend
+2025-07-03 14:54:10,184 INFO    MainThread:16008 [wandb_init.py:init():875] sending inform_init request
+2025-07-03 14:54:10,215 INFO    MainThread:16008 [wandb_init.py:init():883] backend started and connected
+2025-07-03 14:54:10,218 INFO    MainThread:16008 [wandb_run.py:_label_probe_notebook():1299] probe notebook
+2025-07-03 14:54:10,229 INFO    MainThread:16008 [wandb_run.py:_label_probe_notebook():1309] Unable to probe notebook: 'charmap' codec can't decode byte 0x9d in position 83872: character maps to <undefined>
+2025-07-03 14:54:10,230 INFO    MainThread:16008 [wandb_init.py:init():956] updated telemetry
+2025-07-03 14:54:10,488 INFO    MainThread:16008 [wandb_init.py:init():980] communicating run to backend with 90.0 second timeout
