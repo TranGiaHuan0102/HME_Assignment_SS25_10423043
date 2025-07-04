@@ -1,0 +1,38 @@
+{
+  "os": "Linux-6.1.123+-x86_64-with-glibc2.35",
+  "python": "CPython 3.11.13",
+  "startedAt": "2025-07-03T18:42:16.181669Z",
+  "program": "Assignment_HME_recognition_ColabVersion.ipynb",
+  "email": "10423043@student.vgu.edu.vn",
+  "root": "wandb_logs",
+  "host": "5385d43294bc",
+  "executable": "/usr/bin/python3",
+  "colab": "https://colab.research.google.com/notebook#fileId=https://github.com/TranGiaHuan0102/HME_Assignment_SS25_10423043/blob/main/Assignment_HME_recognition_ColabVersion.ipynb",
+  "cpu_count": 1,
+  "cpu_count_logical": 2,
+  "gpu": "Tesla T4",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "120942624768",
+      "used": "44854468608"
+    }
+  },
+  "memory": {
+    "total": "13608370176"
+  },
+  "cpu": {
+    "count": 1,
+    "countLogical": 2
+  },
+  "gpu_nvidia": [
+    {
+      "name": "Tesla T4",
+      "memoryTotal": "16106127360",
+      "cudaCores": 2560,
+      "architecture": "Turing",
+      "uuid": "GPU-6ba3c59b-f691-26c5-fdda-3bb132efd49d"
+    }
+  ],
+  "cudaVersion": "12.4"
+}
